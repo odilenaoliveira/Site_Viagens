@@ -1,0 +1,8 @@
+footer{background-color:var(--color-destaque);padding: 70px 0;display: block;}
+footer .row{display: flex;flex-wrap: wrap;}
+footer .row .box{width:25%;padding: 0 15px;}
+footer .row .box h2{color:#333;font-size: 18px;font-weight: bold;}
+footer .row .box a{color:#333;font-size: 16px;}
+footer .row .box a:hover{letter-spacing: 2px;}
+footer .row .sci{display: grid;grid-template-columns: repeat(4,50px);margin-top: 8px;}
+.sci li a img{display: inline-block;width: 36px;height: 36px;display: grid;justify-content: center;align-items: center;padding: 8px;background-color: #777;}

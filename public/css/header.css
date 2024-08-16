@@ -1,0 +1,5 @@
+header{position: relative;width: 100%;background-color:var(--color-destaque);z-index: 1000;top: 0;left: 0;display: flex;justify-content: space-between;align-items: center;padding: 20px 80px;}
+header ul{position: relative;display: flex;}
+header ul li a{display:inline-block;color: #000;font-size: 16px;margin-left: 10px;padding: 8px 18px;user-select: none;text-transform: uppercase;}
+header .logo{font-size: 1.9em;}
+header .btn{margin-top: 0;}
