@@ -16,5 +16,5 @@ ScrollReveal({reset:true,distance:'40px',duration:2500,delay:200});
 
 ScrollReveal().reveal('.destaque .card',{origin:'bottom',interval:200});
 ScrollReveal().reveal('.desconto',{origin:'left',delay:200});
-ScrollReveal().reveal('.visitados',{origin:'right',delay:300});
+ScrollReveal().reveal('.visitados',{origin:'top',delay:300});
 ScrollReveal().reveal('.guias',{origin:'bottom',delay:400});
